@@ -1,5 +1,5 @@
-# A full write up of this script can be found on my personal blog: http://shehzade.io
-# TO-DO: Add exact post link once site is configured and published!
+# A full write up of this script can be found on my personal blog: 
+# https://shehzade.io/2021/11/25/solving-complex-mazes-in-python-using-the-bfs-algorithm/
 
 import sys
 from bs4 import BeautifulSoup
