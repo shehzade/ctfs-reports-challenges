@@ -1,5 +1,5 @@
-# F-Secure Intern Technical Assesment
-# Candidate: Abdullah Ansari
+# A full write up of this script can be found on my personal blog: http://shehzade.io
+# TO-DO: Add exact post link once site is configured and published!
 
 import sys
 from bs4 import BeautifulSoup
@@ -8,7 +8,7 @@ from collections import deque
 
 import requests
 
-url = "https://pg-0451682683.fs-playground.com/"
+url = "[..REDACTED...]"
 cookies = {".AspNetCore.Session":"CfDJ8DgYhT7piRNBmlddqbrvsA2Zql6g8Q1VgXEABnNHHjZOKbVKB0cnjgzoJCqdtiH6UWlNWCjFrzXiKnvOEQKKJbu9jLpLCM5a4DPu%2FXeZHpx%2BoUqBOiGOm3i2xpP6FMap%2FUwGk38eMIXcE8nnBnogOs7ipit0SCMDA1%2BtJ8BvwIko"}
 
 def get_maze():
